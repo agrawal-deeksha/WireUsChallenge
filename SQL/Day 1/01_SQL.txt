@@ -5,5 +5,5 @@ CREATE TABLE student (
     Marks int
 );
 
-
 INSERT INTO student VALUES ("0012020", "ABC", "Science", 98);
+
