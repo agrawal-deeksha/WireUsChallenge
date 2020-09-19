@@ -1,0 +1,3 @@
+SELECT SNo, SName, MIN(Distance(km)) AS MinDistance 
+FROM STORE
+WHERE Area = "CP";
