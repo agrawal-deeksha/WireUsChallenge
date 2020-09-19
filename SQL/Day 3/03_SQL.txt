@@ -1,0 +1,2 @@
+SELECT min(Date of birth) AS Eldest, max(Date of birth) AS Youngest
+FROM Student;
