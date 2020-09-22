@@ -1,0 +1,10 @@
+1.
+SELECT * 
+FROM EMPLOYEE
+WHERE Name LIKE "L%";
+
+2.
+SELECT *
+FROM EMPLOYEE
+WHERE Name LIKE "____";
+
